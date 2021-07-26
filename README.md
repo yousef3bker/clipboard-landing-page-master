@@ -1,2 +1,8 @@
-# clipboard-landing-page-master
-front-end mentor challenge
+# front-end mentor challenge - clipboard-landing-page-master
+
+
+![Design preview] (./design/desktop-preview.jpg)
+
+# welcome! 
+
+
